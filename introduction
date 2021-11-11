@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<title>catalogo de trenes</title>
+</HEAD>
+<body>
+   <?php
+         echo "bienvenidos al catalogo de trenes.com";
+    ?>
+</body>
+</HTML>
