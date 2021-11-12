@@ -4,6 +4,7 @@
 <title>catalogo de trenes</title>
 </HEAD>
 <body>
+<h1>catalogo 1</h1>
    <?php
          echo "bienvenidos al catalogo de trenes.com";
     ?>
