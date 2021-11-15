@@ -1,2 +1,7 @@
 <?php
+  echo " catalogo de treness"
+  $t1="antiguo" 
+  $t2="nuevo"
+  $t1==$t2//false dos tipos de trenes diferentes
+  echo "reslatar la categoria del tren uno $t1"
 ?>
