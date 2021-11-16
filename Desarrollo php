@@ -4,4 +4,12 @@
   $t2="nuevo";
   $t1==$t2;//false dos tipos de trenes diferentes
   echo $t1;
+  echo "<br><h1>catalogo de trenes antiguos</h1></br>";
+  $tant=10;
+  echo "cantidad de trenes antigos a disposicion=";
+  echo $tant;
+  echo "<br><h1>catalogo de trenes nuevos</h1></br>";
+  $tnew=15;
+  echo "cantidad de trenes nuevos a disposicion = ";
+  echo $tant;
 ?>
