@@ -39,7 +39,7 @@
    ?>
    <?php
    $compra=5;
-  if($compra>=3){
+  if($compra===3 or $compra<5){
   	echo "<br>posee un descuneto del 25% </br>";
   }	
   elseif ($compra>=5){
