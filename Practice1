@@ -1,2 +1,17 @@
 <?php
+//desarrollo de directorio
+$sucursal=principal;
+if($sucursal==secundaria){
+   echo "solo disponible modelos nuevos";
+}
+else if ($sucursal==terciaria){
+   echo "solo disponible modelos antiguos";
+}
+else if ($sucursal==cuarta){
+   echo "solo disponible modelos de 1997";
+}
+else {
+   echo "todos los modelos disponibles";
+}
 ?>
+
