@@ -1,0 +1,19 @@
+<?php
+//desarrollo de directorio
+$sucursal=principal;
+switch ($sucursal) {
+	case 1:
+		echo "solo diponible modelos nuevos";
+		break;
+	case 2:
+		echo "solo disponible modelos antiguos";
+		break;
+	case '3':
+		echo "solo disponible modelos de 1997";
+		break;
+
+	default:
+		echo "Todos los modelos disponibles";
+		break;
+}
+?>
