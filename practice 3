@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<title>catalogo de trenes</title>
+
+<meta charset="utf-8">
+</HEAD>
+<body>
+<h1>catalogo 1</h1>
+   <?php
+
+         echo "bienvenidos al catalogo de trenes.com";
+
+         echo " creando el catalogo perfecto";
+     
+   echo " catalogo de trenes ";
+  $t1="antiguo "; 
+  $t2="nuevo";
+  $t1==$t2;//false dos tipos de trenes diferentes ;
+  echo $t1;
+  echo "<br><h1>catalogo de trenes antiguos</h1></br>";
+  $tant=10;
+  echo "cantidad de trenes antigos a disposicion=";
+  echo $tant;
+  echo "<br><h1>catalogo de trenes nuevos</h1></br>";
+  $tnew=15;
+  echo "cantidad de trenes nuevos a disposicion = ";
+  echo $tant;
+  echo " <br><h3>condiciones de compra</h3></br>";
+  ?>
+  <?php
+  $x=9;
+  $yo=2;
+  $z=3;
+  $w=12;
+  $s=14;
+  echo "la cantidad comprada es incrementada debido a temporada de regalos, la cantidad total es de:";
+  echo ++$z;
+  echo $x+$yo;
+  echo $w++;
+  echo --$s;
+  ?>
+</body>
+</HTML>
