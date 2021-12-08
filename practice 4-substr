@@ -22,6 +22,12 @@
   $sub1=substr($desc,5,15);
   $sub2=substr($desc,20);
   echo "el modelo de tren a comprar es un $sub1 del año $sub2</br>";
+
+  $tren="rojo miniatura año 1945";
+  $tienda=" en la tienda central";
+  $ttren= $tren.$tienda;
+  echo "usted compro un tren de tipo: $ttren ";
+
   ?>
 </body>
 </HTML>
