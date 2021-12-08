@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<title>catalogo de trenes</title>
+
+<meta charset="utf-8">
+</HEAD>
+<body>
+<h1>catalogo 1</h1>
+   <?php
+
+         echo "bienvenidos al catalogo de trenes.com";
+
+         echo " creando el catalogo perfecto";
+     
+   echo " catalogo de trenes</br> ";
+  $trenantiguo="t1l45";
+  $tienda=strlen($trenantiguo);
+  echo "los codigos de cada tren poseen $tienda caracteres que denben verificarse</br>";
+
+  $desc="tren miniatura rojo 1945";
+  $sub1=substr($desc,5,15);
+  $sub2=substr($desc,20);
+  echo "el modelo de tren a comprar es un $sub1 del año $sub2<br>";
+  ?>
+</body>
+</HTML>
