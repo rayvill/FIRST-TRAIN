@@ -6,4 +6,5 @@ Echo" catalado de trenes precios y promociones"</br>;
 $var1= precios
 $var2= lista
 </body>
+echo
 ?>
