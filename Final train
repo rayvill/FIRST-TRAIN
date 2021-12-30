@@ -1,3 +1,5 @@
 <php?
-Var=train1;
-Var
+$var=train1;
+$var=train2;
+$var=train3;
+
