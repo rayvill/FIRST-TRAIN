@@ -1,0 +1,7 @@
+<php?
+$var=train1 clásicos de los 60;
+$var=train2 clasicos de los 80;
+$var=train3 diseños actualizados;
+Echo "solo se cuenta von tres variedades de trenes"
+Echo" las variedades son $var1, $var2 y $var3"
+
