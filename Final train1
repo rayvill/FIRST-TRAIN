@@ -4,9 +4,11 @@ $var2=train2 clasicos de los 80;
 $var3=train3 diseños actualizados;
 Echo "solo se cuenta von tres variedades de trenes";
 Echo" las variedades son $var1, $var2 y $var3";
-If ($var1=$var2);
-Echo "modoficar valores";
-Else
+If ($var1=$var2){
+Echo "modoficar valores"};
+Else{ echo "valores correctos"};
+?>
+
 
 
 
