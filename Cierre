@@ -1,0 +1,11 @@
+<php?
+<html doctype>
+<head>desarrollo de pagina web </head>
+<title>MI PAGINA WEB TIENDA DE TRENES </title>
+<body>
+<h1>inicio</h1>
+Echo "tienda trenes modelos desde 1945";
+$var1= trenes clásico;
+</body>
+</html>
+?>
